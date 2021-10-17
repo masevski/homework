@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+.text {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    }
+p {
+    padding: 20px;
+    border: 2px solid blue;
+    margin: 50px;
+}
+
+body {
+    background-color: lightskyblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#big {
+    font-size: large;
+    padding-left: 10px;
+}
